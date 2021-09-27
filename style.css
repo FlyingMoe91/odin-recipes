@@ -1,4 +1,4 @@
-body{
+body {
   background-color: rgb(218, 218, 176);
 }
 
@@ -11,13 +11,18 @@ body{
   text-align: center;
 }
 
-h1{
+h1 {
   text-align: center;
 }
 
 .flex {
   display: flex;
   justify-content: center;
+}
+
+.mainpic {
+  border-radius: 10px;
+  margin: 30px;
 }
 
 .pic {
