@@ -23,6 +23,8 @@ h1 {
 .mainpic {
   border-radius: 10px;
   margin: 30px;
+  width: 75%;
+  height: 75%;
 }
 
 .pic {
